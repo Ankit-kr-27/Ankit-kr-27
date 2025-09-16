@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **kr.ankit2783@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** An Ayurvedic herbal Medicinal benifical website with ai integration
+- 🔭 **I’m currently working on:** An Ai chatbot
 - 🌱 **I’m currently learning:** DSA and AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** kr.ankit2783@gmail.com
