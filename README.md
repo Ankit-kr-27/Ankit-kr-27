@@ -1,4 +1,4 @@
-# ✨ Hi 👋, I'm Ankit kumar
+# Hi 👋, I'm Ankit kumar
 **A passionate full stack developer || Data science ||  from India**
 
 Email Me 👉 ✉️ **kr.ankit2783@gmail.com** For Collaboration/Project or Anything Else. 😊😊
